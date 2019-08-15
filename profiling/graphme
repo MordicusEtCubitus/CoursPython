@@ -1,0 +1,7 @@
+digraph {
+	1 [label="factorial(n=3)"]
+	2 [label="factorial(n=2)"]
+	1 -> 2
+	3 [label="factorial(n=1)"]
+	2 -> 3
+}
