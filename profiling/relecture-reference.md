@@ -29,6 +29,7 @@
 - for
 - booleen
 - expression française
+- expression latin
 
 ## **`...`**
 - exception
